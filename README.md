@@ -1,1 +1,1 @@
-
+Typing Master Fun is an interactive web-based typing game designed to help users improve their typing speed and accuracy while having fun. Built with HTML, CSS, and JavaScript, this project offers a simple, user-friendly interface and tracks typing performance in real-time
