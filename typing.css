@@ -1,0 +1,44 @@
+*{
+    margin:0;
+    padding:0;
+    border:border-box;
+}
+
+.store_text{
+    height: 200px;
+    width:  auto;
+    border: 4px solid rgb(61, 98, 101);
+    border-radius: 10px;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+    background-color: rgb(8, 8, 8);
+    color:aliceblue;
+}
+body{
+    background-color: rgb(249, 245, 245);
+}
+#Typing_aria{
+    width: 100%;
+    height: 150px;
+    background-color: rgb(150, 142, 136);
+    color:rgb(16, 9, 9);
+    margin-top: 2px;
+    font-size: 15px;
+    border-radius: 10px;
+    letter-spacing: 8px;
+ }
+
+input::placeholder{
+    /* color:black; */
+    color:rgb(34, 26, 17);
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align:center;
+} 
+#Main_heading{
+    text-align: center;
+    font-size: 26px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:rgb(245, 123, 0);
+}
